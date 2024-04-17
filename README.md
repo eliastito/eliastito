@@ -6,6 +6,9 @@ Criadora de Conteúdo + Desenvolvedora
 
 Formada em ADS | Segurança de Redes de Computadores.
 
+![WhatsApp Image 2024-02-24 at 12 49 15](https://github.com/eliastito/eliastito/assets/159371839/61e4a93f-43d5-4787-9fe9-f249e803cb8f)
+
+
 Meu foco atualmente esta em Fullstack
 
 <div>
