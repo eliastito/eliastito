@@ -6,6 +6,7 @@ Criadora de Conteúdo + Desenvolvedora
 
 Formada em ADS | Segurança de Redes de Computadores.
 
+![Github Banner de ejemplo 1 elias tito](https://github.com/eliastito/eliastito/assets/159371839/89928970-5c9c-425d-b437-5922e8f0f494)
 
 
 
